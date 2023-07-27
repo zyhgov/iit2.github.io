@@ -1,0 +1,148 @@
+body{font-family:"宋体"; font-size:12px}
+
+.img{border:solid #000000 1px}
+
+
+
+.song14{font-family:"宋体";	font-size:14px;	color:#000000;	line-height:30px;}
+
+
+
+#jiazai {
+  display: none;
+}
+
+.input{ border:solid; border-color:#829CB5; border-width:1px; height:18px ; width:320px; color:#666666}
+
+.input2{ border:solid; border-color:#ACACAC; border-width:1px; height:20px ; }
+
+
+
+.daohang{font-family:"宋体"; font-size:14px; color:#595E1E;}
+
+.daohang a:link{font-family:"宋体"; font-size:0px; color:#FFFFFF; text-decoration:none}
+
+.daohang a:visited{font-family:"宋体"; font-size:0px; color:#FFFFFF; text-decoration:none}
+
+.daohang a:hover{font-family:"宋体"; font-size:0px; color:#FFFFFF; text-decoration:none}
+
+
+
+.song12{font-family:"宋体" ; font-size:12px; color:#666666}
+
+.song12 a:link{font-family:"宋体"; font-size:12px; color:#666666; text-decoration:none}
+
+.song12 a:visited{font-family:"宋体"; font-size:12px; color:#666666; text-decoration:none}
+
+.song12 a:hover{font-family:"宋体"; font-size:12px; color:#666666; text-decoration:none}
+
+
+
+.hei14{font-family:"宋体" ; font-size:14px; color:#333333}
+
+.hei14 a:link{font-family:"宋体"; font-size:14px; color:#333333; text-decoration:none}
+
+.hei14 a:visited{font-family:"宋体"; font-size:14px; color:#333333; text-decoration:none}
+
+.hei14 a:hover{font-family:"宋体"; font-size:14px; color:#333333; text-decoration:underline}
+
+
+
+.lv16{font-family:"宋体"; font-size:16px; color:#336600; font-weight:bold; line-height:18px}
+
+.lv16 a:link{font-family:"宋体"; font-size:16px; color:#336600; font-weight:bold; text-decoration:none}
+
+.lv16 a:visited{font-family:"宋体"; font-size:16px; color:#336600; font-weight:bold; text-decoration:none}
+
+.lv16 a:hover{font-family:"宋体"; font-size:16px; color:#336600; font-weight:bold; text-decoration:underline}
+
+
+
+.lv12{font-family:"宋体"; font-size:12px; color:#336600;  line-height:22px;padding-bottom:20px;border-bottom:dashed 1px}
+
+.lv12 a:link{font-family:"宋体"; font-size:12px; color:#336600;  text-decoration:none}
+
+.lv12 a:visited{font-family:"宋体"; font-size:12px; color:#336600; text-decoration:none}
+
+.lv12 a:hover{font-family:"宋体"; font-size:12px; color:#336600;  text-decoration:underline}
+
+
+
+.lv14{font-family:"宋体"; font-size:14px; color:#336600;  line-height:22px;padding-bottom:20px;border-bottom:dashed 1px}
+
+.lv14 a:link{font-family:"宋体"; font-size:14px; color:#336600;  text-decoration:none}
+
+.lv14 a:visited{font-family:"宋体"; font-size:14px; color:#336600; text-decoration:none}
+
+.lv14 a:hover{font-family:"宋体"; font-size:14px; color:#336600;  text-decoration:underline}
+
+
+
+
+
+.hei12{font-family:"宋体"; font-size:12px; color:#333333; line-height:20px}
+
+.hei12 a:link{font-family:"宋体"; font-size:12px; color:#333333; line-height:20px; text-decoration:none}
+
+.hei12 a:visited{font-family:"宋体"; font-size:12px; color:#333333; line-height:20px; text-decoration:none}
+
+.hei12 a:hover{font-family:"宋体"; font-size:12px; color:#00000; line-height:20px; text-decoration:underline}
+
+/****************加载框的风格*******************/
+
+
+
+.border_5{
+
+			border: 1px solid #6ea9f6;
+
+			width: 348px;
+
+			height: 198px;
+
+
+
+}
+
+.b0rder_0{
+
+	background-color: #FFFFFF;
+
+	border: 1px solid #6ea9f6;
+
+	font-size: 12pt;
+
+	color: #F8710D;
+
+}
+
+.positondiv{
+
+			position:absolute;
+
+			z-index:1100;
+
+}
+
+
+
+.add_block_process{
+
+	position:absolute;
+
+	top:150px;
+
+	left:400px;
+
+	width: 350px;
+
+	height: 200px;
+
+	border: 1px solid #000000;
+ display: block !important;
+	z-index:1100;
+
+}
+
+
+

@@ -1,0 +1,65 @@
+/* 侧边栏 - 栏目标题*/
+.unborder-left {
+   
+ margin-left:0!important;
+}
+
+.sidebar hr{
+    display: block !important;
+    border-top: 1px solid #eee !important;
+    margin-top: 14px !important;
+    margin-bottom: 14px !important;}
+.sidebar h3 {margin:8px 0;padding:2px 8px;border-left:5px solid #eee}
+.sidebar h3,.sidebar h3 a {color:#369;}
+.sidebar h3 .sub_title {display:block;color:#AAA;text-transform:uppercase;font-weight:normal;font-size:.8rem}
+
+.sidebar ul li {padding:3px 0;line-height:1.8rem;}
+.sidebar .list-ol {padding-left:1.5em}
+.sidebar .list-ol li {padding:3px 0;line-height:1.8rem}
+
+/* 侧边栏 - 专题列表 */
+.list-special {margin-left:0}
+.list-special li {overflow:hidden;border-top:1px dotted #ddd}
+.list-special li a {position:relative;display:block;line-height:2.4rem}
+.list-special li img {display:none}
+.list-special li span,.list-special li a {color:#333}
+.list-special li.selected {padding:0;height: auto;}
+.list-special li.selected a span {
+	position:absolute;
+	bottom:0;
+	left:0;
+	display:block;
+	overflow:hidden;
+	padding:2px 5px;
+	width:100%;
+	/* height:30px; */
+	background:rgba(0,0,0,0.5);
+	color:#FFF;
+	line-height:30px;
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#99000000',endColorstr='#99000000')
+}
+.list-special li.selected img {width:100%;display:block;}
+
+
+/* 侧边栏 图片稿件列表 */
+
+
+/* 视频播放图标 */
+
+
+
+
+
+ul.list-pic {margin-top:15px;margin-left:0}
+ul.list-pic li {position:relative;overflow:hidden;padding:15px 0;border-bottom:1px solid #eee}
+ul.list-pic li:last-child {border-bottom:0}
+ul.list-pic li a {font-size:1em;opacity:.9; line-height: 1.8em;}
+ul.list-pic li a:hover {text-decoration:none;opacity:1}
+ul.list-pic li a p {margin:0;color:#999;font-size:.8rem}
+ul.list-pic li a img {float:left;margin-right:15px;width:120px}
+.video_40x40 {
+    position:absolute;display:block;width:40px;height:40px;cursor:pointer;
+	background:url('play_icon_40.png');
+}
+ul.list-pic li .video_40x40 {top:30px;left:40px}
+ul.list-pic li a:hover .video_40x40 {background:url('play_icon_40_hover.png');}
